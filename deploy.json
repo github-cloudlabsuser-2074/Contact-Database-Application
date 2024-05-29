@@ -16,7 +16,7 @@
 		},
 		"appServicePlanSku": {
 			"type": "string",
-			"defaultValue": "F1",
+			"defaultValue": "B1",
 			"metadata": {
 				"description": "The pricing tier of the App Service plan."
 			}

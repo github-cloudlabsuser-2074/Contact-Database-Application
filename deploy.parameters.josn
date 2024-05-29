@@ -9,7 +9,7 @@
             "value": "yourAppServicePlanName"
         },
         "appServicePlanSku": {
-            "value": "F1"
+            "value": "B1"
         }
     }
 }
