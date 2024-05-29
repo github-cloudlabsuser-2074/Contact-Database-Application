@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "ContactDatabase"
+            "value": "ContactDatabase00126312"
         },
         "appServicePlanName": {
-            "value": "ContactDatabase"
+            "value": "ContactDatabase00126312"
         },
         "appServicePlanSku": {
             "value": "B1"
